@@ -112,3 +112,6 @@ var shows = [
     {title: "True Detective", year: 2014}
 ];
 ```
+
+## Bonus: Add Characters to Shows
+1. Can you figure out how to "embed" character documents inside of shows? For example, "Game of Thrones" would have a `characters` field that holds an array of `Characters`. What data becomes redundant once you've embedded the documents?
